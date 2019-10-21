@@ -1,2 +1,2 @@
 # Sharp-Test
-used flex box for the first time and messed around with tachyons a little bit
+Moble first, used flex box for the first time and messed around with tachyons a little bit
